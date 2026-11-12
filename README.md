@@ -88,7 +88,7 @@ April 2025 – June 2026
 
 - **Portfolio:** [maazahmadyousafzai.github.io/Portfolio](https://maazahmadyousafzai.github.io/Portfolio/)
 - **MediCare Project:** [GitHub Repository](https://github.com/maazahmadyousafzai/MediCare-Hospital-Management-System)
-- **LinkedIn:** [linkedin.com/in/maazyousafzai66](https://www.linkedin.com/in/maazyousafzafzai66)
+- **LinkedIn:** [linkedin.com/in/maazyousafzai66](https://www.linkedin.com/in/maazyousafzai66)
 
 ## 📫 Contact
 
