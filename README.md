@@ -8,7 +8,7 @@ I’m a Computer Science graduate from Government Degree College Hayatabad, Pesh
 
 One of my main academic projects is **MediCare Hospital Management System**, which I developed as my final-year project. I also worked on its research paper and technical documentation. Alongside my studies, I gained experience as a Reception Operator at CMH Peshawar, where I helped patients and visitors and supported daily front-desk activities.
 
-I’m now looking to build on both sides of my experience: my computer science education and my work with people. I’m open to opportunities in IT support, computer operations, healthcare information systems, data entry, and administrative support. I also plan to continue my education and develop my skills further.
+I’m now looking to build on both sides of my experience: my computer science education and my work with people. I’m interested in postgraduate study in Computer Science or a related field, including opportunities in Europe. Alongside my studies, I’m keen to gain practical work experience in IT support, computer operations, healthcare information systems, data entry, or administrative support. My aim is to keep learning while building a steady professional career.
 
 ---
 
@@ -76,7 +76,8 @@ April 2025 – June 2026
 - Data entry and information management
 - Office administration and customer support
 - Web technologies and databases
-- Further study and professional development
+- Postgraduate study in Computer Science or a related field
+- Practical work experience alongside continued learning
 
 ## 🔗 Find Me Online
 
