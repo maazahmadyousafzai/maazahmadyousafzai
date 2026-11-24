@@ -4,7 +4,7 @@ Computer Science graduate | Web development, databases and IT support
 
 I studied Computer Science at Government Degree College Hayatabad, Peshawar, affiliated with the University of Peshawar. My final-year project, MediCare Hospital Management System, brought together the areas I worked on during my degree: PHP development, database design, role-based workflows and technical documentation.
 
-I also have experience in patient-facing and customer-service roles. At CMH Peshawar, I worked as a Patient Relation Officer, helping patients and visitors with information and front-desk coordination. That experience strengthened my communication, record-handling and day-to-day problem-solving skills.
+I also have experience in patient-facing and customer-service roles. At CMH Peshawar, I worked as a Reception Operator, helping patients and visitors with information and front-desk coordination. That experience strengthened my communication, record-handling and day-to-day problem-solving skills.
 
 I’m interested in practical work where technology and service meet, including web applications, database-driven systems, IT support, computer operations and information management. I’m also interested in postgraduate study in Computer Science or a related field.
 
@@ -23,7 +23,7 @@ Affiliated with the University of Peshawar | 2022–2026
 
 ## Work experience
 
-**Patient Relation Officer — CMH Peshawar**  
+**Reception Operator — CMH Peshawar**  
 April 2025 – June 2026
 
 - Assisted patients and visitors with general information and directions.
