@@ -1,95 +1,63 @@
 # Maaz Ahmad
 
-### Computer Science Graduate | Technology, IT Support & Administration
+Computer Science graduate | Web development, databases and IT support
 
-Hello, and welcome to my GitHub profile.
+I studied Computer Science at Government Degree College Hayatabad, Peshawar, affiliated with the University of Peshawar. My final-year project, MediCare Hospital Management System, brought together the areas I worked on during my degree: PHP development, database design, role-based workflows and technical documentation.
 
-I’m a Computer Science graduate from Government Degree College Hayatabad, Peshawar, affiliated with the University of Peshawar. I enjoy learning how technology can solve everyday problems, make information easier to manage, and support people in their work.
+I also have experience in patient-facing and customer-service roles. At CMH Peshawar, I worked as a Patient Relation Officer, helping patients and visitors with information and front-desk coordination. That experience strengthened my communication, record-handling and day-to-day problem-solving skills.
 
-One of my main academic projects is **MediCare Hospital Management System**, which I developed as my final-year project. I also worked on its research paper and technical documentation. Alongside my studies, I gained experience as a Reception Operator at CMH Peshawar, where I helped patients and visitors and supported daily front-desk activities.
+I’m interested in practical work where technology and service meet, including web applications, database-driven systems, IT support, computer operations and information management. I’m also interested in postgraduate study in Computer Science or a related field.
 
-I’m now looking to build on both sides of my experience: my computer science education and my work with people. I’m interested in postgraduate study in Computer Science or a related field, including opportunities in Europe. Alongside my studies, I’m keen to gain practical work experience in IT support, computer operations, healthcare information systems, data entry, or administrative support. My aim is to keep learning while building a steady professional career.
+## Education
 
----
-
-## 🎓 Education
-
-**Bachelor of Science in Computer Science (BSCS)**  
+**BS Computer Science**  
 Government Degree College Hayatabad, Peshawar  
 Affiliated with the University of Peshawar | 2022–2026
 
-## 💻 Technical Skills
+## Technical skills
 
-- **Web:** HTML5, CSS3, Bootstrap 5, JavaScript, PHP
-- **Databases:** MariaDB, SQL
-- **Tools:** XAMPP, Git, GitHub, Chart.js, PHPMailer
-- **Concepts:** Three-Tier Architecture, Hospital Management Information Systems
+- **Web development:** PHP, JavaScript, HTML5, CSS3, Bootstrap 5
+- **Databases:** MariaDB, MySQL and SQL
+- **Tools and libraries:** Git, GitHub, XAMPP, Chart.js and PHPMailer
+- **Computer and office work:** Microsoft Word, Excel and PowerPoint; data entry; document preparation; record management
 
-## 🗂️ Office & Computer Skills
+## Work experience
 
-- Microsoft Word, Excel, and PowerPoint
-- Data entry and document preparation
-- Record management and computer operations
-- Internet, email, and digital communication
+**Patient Relation Officer — CMH Peshawar**  
+April 2025 – June 2026
 
-## 🤝 Professional Skills
+- Assisted patients and visitors with general information and directions.
+- Supported front-desk communication and routine coordination.
+- Helped maintain an orderly flow of day-to-day reception activities.
 
-- Reception and front-desk support
-- Patient guidance and customer service
-- Appointment scheduling and telephone handling
-- Administrative support and coordination
-- Communication and problem-solving
+## Languages
 
-## 🌐 Languages
-
-- Pashto — Mother tongue
+- Pashto — Native
 - Urdu — Fluent
-- English — Preparing for IELTS
+- English — Fluent
 
----
-
-## 🚀 Academic Project
+## Selected project
 
 ### MediCare Hospital Management System
 
-MediCare is my Bachelor’s final-year project. It is a web-based hospital management system developed to support hospital-related workflows and information management.
+MediCare is my BS Computer Science final-year project. It is a web-based application designed around patient, doctor and administrator workflows. The project includes appointment handling, prescription records, doctor feedback, email functionality and a manual payment-reference review process.
 
-**Technologies used:** PHP, JavaScript, HTML5, CSS3, Bootstrap, MariaDB, SQL
+The payment workflow is a demonstration process; it is not connected to live JazzCash, Easypaisa or banking APIs. Video-call functionality requires private ZEGOCLOUD credentials and local integration testing. The project is an academic prototype, not a certified clinical system.
 
-- [Explore the project source code](https://github.com/maazahmadyousafzai/MediCare-Hospital-Management-System)
-- [Read the research paper — Version 2.0](https://doi.org/10.5281/zenodo.24161126)
-- [View the Zenodo record](https://doi.org/10.5281/zenodo.23239864)
+- [Source code and setup notes](https://github.com/maazahmadyousafzai/MediCare-Hospital-Management-System)
+- [Project portfolio](https://maazahmadyousafzai.github.io/Portfolio/)
 
-## 🏥 Work Experience
+## Research record
 
-**Reception Operator — CMH Peshawar**  
-April 2025 – June 2026
+A research manuscript related to the MediCare project is available as a Zenodo record:
 
-- Helped patients and visitors with directions and general reception support.
-- Handled front-desk communication and shared relevant information.
-- Assisted with coordination and everyday administrative tasks in a healthcare setting.
+- [MediCare research record — Version 2.0](https://doi.org/10.5281/zenodo.24161126)
 
-## 🎯 What I’m Interested In
+This link identifies the deposited research record; it should not be read as confirmation of journal acceptance or peer review.
 
-- IT support and computer operations
-- Healthcare information systems
-- Data entry and information management
-- Office administration and customer support
-- Web technologies and databases
-- Postgraduate study in Computer Science or a related field
-- Practical work experience alongside continued learning
+## Connect
 
-## 🔗 Find Me Online
-
-- **Portfolio:** [View my portfolio](https://maazahmadyousafzai.github.io/Portfolio/)
-- **GitHub Project:** [MediCare Hospital Management System](https://github.com/maazahmadyousafzai/MediCare-Hospital-Management-System)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/maazyousafzai66)
-
-## 📫 Get in Touch
-
-- **Email:** [maazahmadyousafzai557@gmail.com](mailto:maazahmadyousafzai557@gmail.com)
-- **LinkedIn:** [linkedin.com/in/maazyousafzai66](https://www.linkedin.com/in/maazyousafzai66)
-
----
-
-Thanks for stopping by. I’m always glad to learn, share ideas, and connect with people working on useful projects.
+- [Portfolio](https://maazahmadyousafzai.github.io/Portfolio/)
+- [GitHub](https://github.com/maazahmadyousafzai)
+- [LinkedIn](https://www.linkedin.com/in/maazyousafzai66/)
+- Email: [maazahmadyousafzai557@gmail.com](mailto:maazahmadyousafzai557@gmail.com)
