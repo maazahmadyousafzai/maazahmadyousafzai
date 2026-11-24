@@ -60,4 +60,3 @@ This link identifies the deposited research record; it should not be read as con
 - [Portfolio](https://maazahmadyousafzai.github.io/Portfolio/)
 - [GitHub](https://github.com/maazahmadyousafzai)
 - [LinkedIn](https://www.linkedin.com/in/maazyousafzai66/)
-- Email: [maazahmadyousafzai557@gmail.com](mailto:maazahmadyousafzai557@gmail.com)
